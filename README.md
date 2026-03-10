@@ -11,4 +11,4 @@ What is Azure Container Registry?
 
 - Azure Container Registry is a multi-tenant service, where the data endpoint storage accounts are managed by the registry service. There are many benefits for managed storage, such as load balancing, contentious content splitting, multiple copies for higher concurrent content delivery.
 
-![Image Alt](image_url)
+![Image Alt](https://github.com/yancyrafael/Azure-Container-Registry/blob/c05455d1b68d69b6450c99dfbb591872927d3051/Screenshot_2.png)
